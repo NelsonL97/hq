@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/hq/feed.xml" rel="self" type="application/atom+xml" /><link href="/hq/" rel="alternate" type="text/html" /><updated>2020-12-21T01:14:24-05:00</updated><id>/hq/feed.xml</id><title type="html">Lambda Genetics, Ltd.</title><subtitle>&quot;Washington, D.C. based cannabis research laboratory specializing in tissue culture, cloning, and chemotypical profiling via HPLC standard technique.&quot;</subtitle><entry><title type="html">Shineapple released!</title><link href="/hq/releases/fall2020/shineapple-released.html" rel="alternate" type="text/html" title="Shineapple released!" /><published>2020-10-15T13:30:00-04:00</published><updated>2020-10-15T13:30:00-04:00</updated><id>/hq/releases/fall2020/shineapple-released</id><content type="html" xml:base="/hq/releases/fall2020/shineapple-released.html">&lt;!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ --&gt;
+
+&lt;!-- Content for blog post begins here --&gt;
+
+&lt;p&gt;We’re happy to have now released Shineapple dry cured herb. Developed by Duke Diamond of Dominion Seed Co, this Sativa-dominant afghani grown by Nitro Nash hails from Virgnia Beach’s VA Beach Ghani, a strong prolific indica afghani that was grown in the area for decades.&lt;/p&gt;
+
+&lt;p&gt;Flavours:
+Citrus, Candle Apple&lt;/p&gt;
+
+&lt;p&gt;Positive Effects:
+Euphoric, Headstrong, Invigorating&lt;/p&gt;
+
+&lt;p&gt;Negative Effects:
+Dry Throat, Insomnia&lt;/p&gt;
+
+&lt;p&gt;Medicinal Uses:
+CREATIVE productivity, Work-related stress, Acute short-term depressions&lt;/p&gt;</content><author><name></name></author><category term="releases" /><category term="fall2020" /><summary type="html">&amp;lt;!– You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
