@@ -80,7 +80,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .bg-image { background-image: url("{{ site.baseurl }}/assets/img/yellowbubbles.png"); }
 
-.site-icon { float: left; margin-top: 3px; width: 45px; height: 45px; }
+.site-icon { float: left; margin-top: 3px; margin-right: 5px; width: 45px; height: 45px; }
 
 /* Style the submit button */
 .form-email { color: red; }
@@ -93,7 +93,7 @@ table td { border: 1px solid #e8e8e8; }
 
 .page-button-contribute { background-color: #f44336; color: white; padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; }
 
-.site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
+.site-title { font-size: 26px; font-weight: 500; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
 
 .site-title, .site-title:visited { color: #c23825; }
 
