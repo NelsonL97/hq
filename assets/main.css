@@ -81,7 +81,9 @@ table td { border: 1px solid #e8e8e8; }
 .site-icon { float: left; margin-top: 3px; width: 45px; height: 45px; }
 
 /* Style the submit button */
-.form-email { color: green; }
+.form-email { color: red; }
+
+.post-mainpicture { width: 100%; z-index: 0; }
 
 .site-title { font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
 
