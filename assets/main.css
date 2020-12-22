@@ -85,7 +85,7 @@ table td { border: 1px solid #e8e8e8; }
 /* Style the submit button */
 .form-email { color: red; }
 
-.post-mainpicture { width: 100%; z-index: 0; }
+.post-mainpicture { width: 75%; display: block; margin-left: auto; margin-right: auto; z-index: 0; }
 
 .page-mainpicture { width: 75%; display: block; margin-left: auto; margin-right: auto; z-index: 0; }
 
