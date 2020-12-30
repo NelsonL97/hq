@@ -1,36 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/hq/feed.xml" rel="self" type="application/atom+xml" /><link href="/hq/" rel="alternate" type="text/html" /><updated>2020-12-29T18:47:27-05:00</updated><id>/hq/feed.xml</id><title type="html">Lambda Genetics, Ltd.</title><subtitle>Washington, D.C. based cannabis research laboratory specializing in tissue culture, cloning, and chemotypical profiling via HPLC standard technique.</subtitle><entry><title type="html">Spring 2021 Releases</title><link href="/hq/2020/12/15/spring-2021-releases.html" rel="alternate" type="text/html" title="Spring 2021 Releases" /><published>2020-12-15T12:30:00-05:00</published><updated>2020-12-15T12:30:00-05:00</updated><id>/hq/2020/12/15/spring-2021-releases</id><content type="html" xml:base="/hq/2020/12/15/spring-2021-releases.html">&lt;!-- Content for blog post begins here --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/hq/feed.xml" rel="self" type="application/atom+xml" /><link href="/hq/" rel="alternate" type="text/html" /><updated>2020-12-30T09:46:59-05:00</updated><id>/hq/feed.xml</id><title type="html">Lambda Genetics, Ltd.</title><subtitle>Washington, D.C. based cannabis research laboratory specializing in tissue culture, cloning, and chemotypical profiling via HPLC standard technique.</subtitle><entry><title type="html">Spring 2021 Releases</title><link href="/hq/2020/12/15/spring-2021-releases.html" rel="alternate" type="text/html" title="Spring 2021 Releases" /><published>2020-12-15T12:30:00-05:00</published><updated>2020-12-15T12:30:00-05:00</updated><id>/hq/2020/12/15/spring-2021-releases</id><content type="html" xml:base="/hq/2020/12/15/spring-2021-releases.html">&lt;!-- Content for blog post begins here --&gt;
 
 &lt;!-- Strain Release Table. Maintained by developers @LambdaGenetics© 2020--&gt;
 &lt;!-- The next line needs to be a break or else Jekyll doesn't render the markdown table--&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Strain&lt;/th&gt;
-      &lt;th&gt;Classification&lt;/th&gt;
-      &lt;th&gt;Release&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Saltwater OG&lt;/td&gt;
-      &lt;td&gt;Indica-Dominant Hybrid&lt;/td&gt;
-      &lt;td&gt;March&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Dark Devil&lt;/td&gt;
-      &lt;td&gt;Indica-Dominant Hybrid&lt;/td&gt;
-      &lt;td&gt;March&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Divinity Remix&lt;/td&gt;
-      &lt;td&gt;Indica-Dominant Hybrid&lt;/td&gt;
-      &lt;td&gt;April&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Eight months of passion, hard work and research devoted to our beloved plants and seeds. Throughout 2021, we shall present eight new strains that are guaranteed to delight to the DC area. Here are the few we can tell you about so far.&lt;/p&gt;
+&lt;p&gt;| Strain | Classification | Release |
+| ————— | ————— | ————— |
+| Saltwater OG | Indica-Dominant Hybrid | March |
+| Dark Devil | Indica-Dominant Hybrid | March|
+| Divinity Remix | Indica-Dominant Hybrid | April |
+| Shineapple | Sativa-Dominant Hybrid | April |
+| Whitaker Blues | Indica-Dominant Hybrid | April |
+| Key Lime Chem | Balanced Hybrid | April |
+| Oregon Cutthroat | Indica-Dominant Hybrid | April |
+Eight months of passion, hard work and research devoted to our beloved plants and seeds. Throughout 2021, we shall present eight new strains that are guaranteed to delight to the DC area. Here are the few we can tell you about so far.&lt;/p&gt;
 
 &lt;p&gt;Saltwater OG:&lt;/p&gt;
 
