@@ -89,6 +89,8 @@ table td { border: 1px solid #e8e8e8; }
 
 .page-mainpicture { width: 40%; display: block; margin-left: auto; margin-right: auto; z-index: 0; }
 
+.page-cellpicture { width: 70%; display: block; margin-left: auto; margin-right: auto; z-index: 0; }
+
 .page-subpicture { width: 25%; float: right; display: block; margin-left: auto; margin-right: auto; z-index: 0; }
 
 .page-button-contribute { background-color: #f44336; color: white; padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; }
