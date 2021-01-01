@@ -1,0 +1,23 @@
+' Type a list of Flows, like this:
+'     SOURCE [AMOUNT] TARGET
+' Examples:
+
+Seeds [32] Planted
+Planted [10] Did Not Germinate
+Planted [22] Germinated
+Germinated [14] Females
+Germinated [8] Males
+Females [5] Divinity Remix
+Females [3] Oregon Cutthroat
+Females [2] Key Lime Chem
+Females [1] Shinapple
+Females [1] Whitaker Blues
+Females [1] Black Cherry Pound Cake
+Females [1] London Bridge
+
+' After your Flows are entered, use the
+' controls below to customize your
+' diagram's appearance.
+
+' For even finer control over presentation,
+' see the Manual (linked above).
