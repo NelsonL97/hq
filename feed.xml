@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/hq/feed.xml" rel="self" type="application/atom+xml" /><link href="/hq/" rel="alternate" type="text/html" /><updated>2021-01-01T16:46:20-05:00</updated><id>/hq/feed.xml</id><title type="html">Lambda Genetics, Ltd.</title><subtitle>Washington, D.C. based cannabis research laboratory specializing in tissue culture, cloning, and chemotypical profiling via HPLC standard technique.</subtitle><entry><title type="html">Spring 2021 Releases</title><link href="/hq/2020/12/15/spring-2021-releases.html" rel="alternate" type="text/html" title="Spring 2021 Releases" /><published>2020-12-15T12:30:00-05:00</published><updated>2020-12-15T12:30:00-05:00</updated><id>/hq/2020/12/15/spring-2021-releases</id><content type="html" xml:base="/hq/2020/12/15/spring-2021-releases.html">&lt;!-- Content for blog post begins here --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/hq/feed.xml" rel="self" type="application/atom+xml" /><link href="/hq/" rel="alternate" type="text/html" /><updated>2021-01-01T17:06:43-05:00</updated><id>/hq/feed.xml</id><title type="html">Lambda Genetics, Ltd.</title><subtitle>Washington, D.C. based cannabis research laboratory specializing in tissue culture, cloning, and chemotypical profiling via HPLC standard technique.</subtitle><entry><title type="html">Spring 2021 Releases</title><link href="/hq/2020/12/15/spring-2021-releases.html" rel="alternate" type="text/html" title="Spring 2021 Releases" /><published>2020-12-15T12:30:00-05:00</published><updated>2020-12-15T12:30:00-05:00</updated><id>/hq/2020/12/15/spring-2021-releases</id><content type="html" xml:base="/hq/2020/12/15/spring-2021-releases.html">&lt;!-- Content for blog post begins here --&gt;
 
 &lt;!-- Strain Release Table. Maintained by developers @LambdaGenetics© 2020--&gt;
 &lt;!-- The next line needs to be a break or else Jekyll doesn't render the markdown table--&gt;
@@ -94,7 +94,7 @@
       &lt;td&gt;&lt;strong&gt;Key Lime Chem&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Balanced Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;April&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq/assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -106,7 +106,7 @@
       &lt;td&gt;&lt;strong&gt;Oregon Cutthroat&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;April&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq/assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -118,7 +118,7 @@
       &lt;td&gt;&lt;strong&gt;Whitaker Blues&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;May&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq/assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -130,7 +130,7 @@
       &lt;td&gt;&lt;strong&gt;London Bridge&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;May&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq/assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -142,7 +142,7 @@
       &lt;td&gt;&lt;strong&gt;Black Cherry Pound Cake&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;May&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq/assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -205,9 +205,9 @@ CREATIVE productivity, Work-related stress, Acute short-term depressions&lt;/p&g
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;Shineapple&lt;/td&gt;
-      &lt;td&gt;Sativa-Dominant Hybrid&lt;/td&gt;
-      &lt;td&gt;October&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Shineapple&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Sativa-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;October&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq/assets/img/labels/shineapple1_logo.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
