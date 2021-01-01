@@ -1,36 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/hq/feed.xml" rel="self" type="application/atom+xml" /><link href="/hq/" rel="alternate" type="text/html" /><updated>2021-01-01T02:23:49-05:00</updated><id>/hq/feed.xml</id><title type="html">Lambda Genetics, Ltd.</title><subtitle>Washington, D.C. based cannabis research laboratory specializing in tissue culture, cloning, and chemotypical profiling via HPLC standard technique.</subtitle><entry><title type="html">Summer 2020 Releases</title><link href="/hq/2020/12/15/summer-2020-releases.html" rel="alternate" type="text/html" title="Summer 2020 Releases" /><published>2020-12-15T12:30:00-05:00</published><updated>2020-12-15T12:30:00-05:00</updated><id>/hq/2020/12/15/summer-2020-releases</id><content type="html" xml:base="/hq/2020/12/15/summer-2020-releases.html">&lt;!-- Content for blog post begins here --&gt;
-
-&lt;!-- Strain Release Table. Maintained by developers @LambdaGenetics© 2020--&gt;
-&lt;!-- The next line needs to be a break or else Jekyll doesn't render the markdown table--&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Strain&lt;/th&gt;
-      &lt;th&gt;Classification&lt;/th&gt;
-      &lt;th&gt;Release&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Shineapple&lt;/td&gt;
-      &lt;td&gt;Sativa-Dominant Hybrid&lt;/td&gt;
-      &lt;td&gt;October&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;After careful research, we have decided to initiate our projects with Shineapple, a Sativa-dominant genetic that has the powerful narcotic potency from its afghani mother. Bred and tested by Duke Diamond, from Dominion Seed Company, this flower was bred for the east coast’s tempermental climate near the humid cold region of Virginia Beach.&lt;/p&gt;
-
-&lt;p&gt;Pest Resistance:
-Mold Resistance:
-Mildew Resistance:&lt;/p&gt;
-
-&lt;p&gt;Shineapple:&lt;/p&gt;
-
-&lt;p&gt;Developed by Dominion Seed Co&lt;/p&gt;
-
-&lt;p&gt;(Virginia &amp;amp; Oregon, USA)&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hq/assets/img/divinityremix.png" /><media:content medium="image" url="/hq/assets/img/divinityremix.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Spring 2021 Releases</title><link href="/hq/2020/12/15/spring-2021-releases.html" rel="alternate" type="text/html" title="Spring 2021 Releases" /><published>2020-12-15T12:30:00-05:00</published><updated>2020-12-15T12:30:00-05:00</updated><id>/hq/2020/12/15/spring-2021-releases</id><content type="html" xml:base="/hq/2020/12/15/spring-2021-releases.html">&lt;!-- Content for blog post begins here --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/hq/feed.xml" rel="self" type="application/atom+xml" /><link href="/hq/" rel="alternate" type="text/html" /><updated>2021-01-01T16:46:20-05:00</updated><id>/hq/feed.xml</id><title type="html">Lambda Genetics, Ltd.</title><subtitle>Washington, D.C. based cannabis research laboratory specializing in tissue culture, cloning, and chemotypical profiling via HPLC standard technique.</subtitle><entry><title type="html">Spring 2021 Releases</title><link href="/hq/2020/12/15/spring-2021-releases.html" rel="alternate" type="text/html" title="Spring 2021 Releases" /><published>2020-12-15T12:30:00-05:00</published><updated>2020-12-15T12:30:00-05:00</updated><id>/hq/2020/12/15/spring-2021-releases</id><content type="html" xml:base="/hq/2020/12/15/spring-2021-releases.html">&lt;!-- Content for blog post begins here --&gt;
 
 &lt;!-- Strain Release Table. Maintained by developers @LambdaGenetics© 2020--&gt;
 &lt;!-- The next line needs to be a break or else Jekyll doesn't render the markdown table--&gt;
@@ -70,6 +38,7 @@ Mildew Resistance:&lt;/p&gt;
       &lt;th&gt;Strain&lt;/th&gt;
       &lt;th&gt;Classification&lt;/th&gt;
       &lt;th&gt;Release&lt;/th&gt;
+      &lt;th&gt;Logo&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -77,18 +46,22 @@ Mildew Resistance:&lt;/p&gt;
       &lt;td&gt;&lt;strong&gt;Saltwater OG&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;March&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq/assets/img/labels/saltwater_og_label.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Dark Devil&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Death Valley’s Shadow&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;March&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq/assets/img/labels/darkdevil.jpg&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -97,8 +70,10 @@ Mildew Resistance:&lt;/p&gt;
       &lt;td&gt;&lt;strong&gt;Divinity Remix&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;April&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq/assets/img/labels/divinityremix.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -107,8 +82,10 @@ Mildew Resistance:&lt;/p&gt;
       &lt;td&gt;&lt;strong&gt;Shineapple&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Sativa-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;April&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq/assets/img/labels/shineapple2_logo.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -117,8 +94,10 @@ Mildew Resistance:&lt;/p&gt;
       &lt;td&gt;&lt;strong&gt;Key Lime Chem&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Balanced Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;April&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -127,8 +106,10 @@ Mildew Resistance:&lt;/p&gt;
       &lt;td&gt;&lt;strong&gt;Oregon Cutthroat&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;April&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -137,8 +118,10 @@ Mildew Resistance:&lt;/p&gt;
       &lt;td&gt;&lt;strong&gt;Whitaker Blues&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;May&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -147,8 +130,10 @@ Mildew Resistance:&lt;/p&gt;
       &lt;td&gt;&lt;strong&gt;London Bridge&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;May&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -157,29 +142,14 @@ Mildew Resistance:&lt;/p&gt;
       &lt;td&gt;&lt;strong&gt;Black Cherry Pound Cake&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;May&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Eight months of passion, hard work and research devoted to our beloved plants and seeds. Throughout 2021, we shall present eight new strains that are guaranteed to delight to the DC area. Here are the few we can tell you about so far.&lt;/p&gt;
+&lt;p&gt;Eight months of passion, hard work and research devoted to our beloved plants and seeds. Throughout 2021, we shall present eight new strains that are guaranteed to delight to the DC area.&lt;/p&gt;
 
-&lt;p&gt;Saltwater OG:&lt;/p&gt;
-
-&lt;p&gt;Developed by Purple City Genetics&lt;/p&gt;
-
-&lt;p&gt;(Oakland, CA, USA)&lt;/p&gt;
-
-&lt;p&gt;Dark Devil:&lt;/p&gt;
-
-&lt;p&gt;Developed by Sweet Seeds&lt;/p&gt;
-
-&lt;p&gt;(València, Valencia, Spain)&lt;/p&gt;
-
-&lt;p&gt;Divinity Remix:&lt;/p&gt;
-
-&lt;p&gt;Developed by In-House Genetics&lt;/p&gt;
-
-&lt;p&gt;(Denver, CO, USA)&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hq/assets/img/divinityremix.png" /><media:content medium="image" url="/hq/assets/img/divinityremix.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shineapple Released!</title><link href="/hq/2020/10/15/shineapple-released.html" rel="alternate" type="text/html" title="Shineapple Released!" /><published>2020-10-15T13:30:00-04:00</published><updated>2020-10-15T13:30:00-04:00</updated><id>/hq/2020/10/15/shineapple-released</id><content type="html" xml:base="/hq/2020/10/15/shineapple-released.html">&lt;!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+&lt;p&gt;We will be including more information about each strain on this page as Spring 2021 approaches.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hq/assets/img/labels/divinityremix.png" /><media:content medium="image" url="/hq/assets/img/labels/divinityremix.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shineapple Released!</title><link href="/hq/2020/10/15/shineapple-released.html" rel="alternate" type="text/html" title="Shineapple Released!" /><published>2020-10-15T13:30:00-04:00</published><updated>2020-10-15T13:30:00-04:00</updated><id>/hq/2020/10/15/shineapple-released</id><content type="html" xml:base="/hq/2020/10/15/shineapple-released.html">&lt;!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -219,4 +189,38 @@ Euphoric, Headstrong, Invigorating&lt;/p&gt;
 Dry Throat, Insomnia&lt;/p&gt;
 
 &lt;p&gt;Medicinal Uses:
-CREATIVE productivity, Work-related stress, Acute short-term depressions&lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt;!– You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hq/assets/img/shineapple.jpg" /><media:content medium="image" url="/hq/assets/img/shineapple.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+CREATIVE productivity, Work-related stress, Acute short-term depressions&lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt;!– You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hq/assets/img/shineapple.jpg" /><media:content medium="image" url="/hq/assets/img/shineapple.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Summer 2020 Releases</title><link href="/hq/2020/04/15/summer-2020-releases.html" rel="alternate" type="text/html" title="Summer 2020 Releases" /><published>2020-04-15T13:30:00-04:00</published><updated>2020-04-15T13:30:00-04:00</updated><id>/hq/2020/04/15/summer-2020-releases</id><content type="html" xml:base="/hq/2020/04/15/summer-2020-releases.html">&lt;!-- Content for blog post begins here --&gt;
+
+&lt;!-- Strain Release Table. Maintained by developers @LambdaGenetics© 2020--&gt;
+&lt;!-- The next line needs to be a break or else Jekyll doesn't render the markdown table--&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Strain&lt;/th&gt;
+      &lt;th&gt;Classification&lt;/th&gt;
+      &lt;th&gt;Release&lt;/th&gt;
+      &lt;th&gt;Logo&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Shineapple&lt;/td&gt;
+      &lt;td&gt;Sativa-Dominant Hybrid&lt;/td&gt;
+      &lt;td&gt;October&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/hq/assets/img/labels/shineapple1_logo.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;After careful research, we have decided to initiate our projects with Shineapple, a Sativa-dominant genetic that has the powerful narcotic potency from its afghani mother. Bred and tested by Duke Diamond, from Dominion Seed Company, this flower was bred for the east coast’s tempermental climate near the humid cold region of Virginia Beach.&lt;/p&gt;
+
+&lt;p&gt;Pest Resistance:
+Mold Resistance:
+Mildew Resistance:&lt;/p&gt;
+
+&lt;p&gt;Shineapple:&lt;/p&gt;
+
+&lt;p&gt;Developed by Dominion Seed Co&lt;/p&gt;
+
+&lt;p&gt;(Virginia &amp;amp; Oregon, USA)&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/hq/assets/img/labels/shineapple2_logo.png" /><media:content medium="image" url="/hq/assets/img/labels/shineapple2_logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
