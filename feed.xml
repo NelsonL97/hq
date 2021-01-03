@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-02T20:14:11-05:00</updated><id>/feed.xml</id><title type="html">Lambda Genetics, Ltd.</title><subtitle>Washington, D.C. based cannabis research laboratory specializing in tissue culture, cloning, and chemotypical profiling via HPLC standard technique.</subtitle><entry><title type="html">Spring 2021 Releases</title><link href="/2020/12/15/spring-2021-releases.html" rel="alternate" type="text/html" title="Spring 2021 Releases" /><published>2020-12-15T12:30:00-05:00</published><updated>2020-12-15T12:30:00-05:00</updated><id>/2020/12/15/spring-2021-releases</id><content type="html" xml:base="/2020/12/15/spring-2021-releases.html">&lt;!-- Content for blog post begins here --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https/feed.xml" rel="self" type="application/atom+xml" /><link href="https/" rel="alternate" type="text/html" /><updated>2021-01-02T20:22:01-05:00</updated><id>https/feed.xml</id><title type="html">Lambda Genetics, Ltd.</title><subtitle>Washington, D.C. based cannabis research laboratory specializing in tissue culture, cloning, and chemotypical profiling via HPLC standard technique.</subtitle><entry><title type="html">Spring 2021 Releases</title><link href="https/2020/12/15/spring-2021-releases.html" rel="alternate" type="text/html" title="Spring 2021 Releases" /><published>2020-12-15T12:30:00-05:00</published><updated>2020-12-15T12:30:00-05:00</updated><id>https/2020/12/15/spring-2021-releases</id><content type="html" xml:base="https/2020/12/15/spring-2021-releases.html">&lt;!-- Content for blog post begins here --&gt;
 
 &lt;!-- Strain Release Table. Maintained by developers @LambdaGenetics© 2020--&gt;
 &lt;!-- The next line needs to be a break or else Jekyll doesn't render the markdown table--&gt;
@@ -50,7 +50,7 @@
       &lt;td&gt;&lt;a href=&quot;https://en.seedfinder.eu/strain-info/Saltwater_OG_Auto/Purple_City_Genetics/&quot;&gt;&lt;strong&gt;Saltwater OG&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;March&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;//assets/img/labels/saltwater_og_label.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/assets/img/labels/saltwater_og_label.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -62,7 +62,7 @@
       &lt;td&gt;&lt;strong&gt;Death Valley’s Shadow&lt;/strong&gt; &lt;a href=&quot;https://www.seedsherenow.com/shop/seed-types/regular-seeds/crockett-family-farms-hells-fire/&quot;&gt;Hell’s Fire&lt;/a&gt; &lt;em&gt;x&lt;/em&gt; &lt;a href=&quot;http://inhouse-genetics.com/portfolio/goliath-f2/&quot;&gt;Goliath&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;March&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;//assets/img/labels/darkdevil.jpg&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/assets/img/labels/darkdevil.jpg&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -74,7 +74,7 @@
       &lt;td&gt;&lt;a href=&quot;https://en.seedfinder.eu/strain-info/Divinity_Remix/In_House_Genetics/&quot;&gt;&lt;strong&gt;Divinity Remix&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;Indica-Dominant Hybrid&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;April&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;//assets/img/labels/divinityremix.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/assets/img/labels/divinityremix.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -86,7 +86,7 @@
       &lt;td&gt;&lt;a href=&quot;https://www.seedsherenow.com/shop/seed-types/regular-seeds/dominion-seed-company-shineapple/&quot;&gt;&lt;strong&gt;Shineapple&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Sativa-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;April&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;//assets/img/labels/shineapple2_logo.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/assets/img/labels/shineapple2_logo.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -98,7 +98,7 @@
       &lt;td&gt;&lt;a href=&quot;https://www.seedsherenow.com/shop/strains/hybrid/second-generation-genetics-key-lime-chem/&quot;&gt;&lt;strong&gt;Key Lime Chem&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Balanced Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;April&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;//assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -110,7 +110,7 @@
       &lt;td&gt;&lt;a href=&quot;https://www.djgenetics.com/oregon-cutthroat-drops-on-4-20/&quot;&gt;&lt;strong&gt;Oregon Cutthroat&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;April&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;//assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -122,7 +122,7 @@
       &lt;td&gt;&lt;a href=&quot;https://www.leafly.com/strains/whitaker-blues&quot;&gt;&lt;strong&gt;Whitaker Blues&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;May&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;//assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -134,7 +134,7 @@
       &lt;td&gt;&lt;a href=&quot;https://www.cheebas.co/London-Bridge&quot;&gt;&lt;strong&gt;London Bridge&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;May&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;//assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
@@ -146,10 +146,10 @@
       &lt;td&gt;&lt;a href=&quot;https://sapphireseedbank.com/product/42-black-cherry-pound-cake/&quot;&gt;&lt;strong&gt;Black Cherry Pound Cake&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Indica-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;May&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;//assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/assets/img/soon.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/labels/divine.jpg" /><media:content medium="image" url="/assets/img/labels/divine.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shineapple Released!</title><link href="/2020/10/15/shineapple-released.html" rel="alternate" type="text/html" title="Shineapple Released!" /><published>2020-10-15T13:30:00-04:00</published><updated>2020-10-15T13:30:00-04:00</updated><id>/2020/10/15/shineapple-released</id><content type="html" xml:base="/2020/10/15/shineapple-released.html">&lt;!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+&lt;/table&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https/assets/img/labels/divine.jpg" /><media:content medium="image" url="https/assets/img/labels/divine.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shineapple Released!</title><link href="https/2020/10/15/shineapple-released.html" rel="alternate" type="text/html" title="Shineapple Released!" /><published>2020-10-15T13:30:00-04:00</published><updated>2020-10-15T13:30:00-04:00</updated><id>https/2020/10/15/shineapple-released</id><content type="html" xml:base="https/2020/10/15/shineapple-released.html">&lt;!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -175,7 +175,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 &lt;!-- Content for blog post begins here --&gt;
 
-&lt;p&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;//assets/img/shineapple.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/assets/img/shineapple.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We’re happy to have now released Shineapple dry cured herb. Developed by Duke Diamond of Dominion Seed Co, this Sativa-dominant afghani grown by Nitro Nash hails from Virgnia Beach’s VA Beach Ghani, a strong prolific indica afghani that was grown in the area for decades.&lt;/p&gt;
 
@@ -189,7 +189,7 @@ Euphoric, Headstrong, Invigorating&lt;/p&gt;
 Dry Throat, Insomnia&lt;/p&gt;
 
 &lt;p&gt;Medicinal Uses:
-CREATIVE productivity, Work-related stress, Acute short-term depressions&lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt;!– You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/shineapple.jpg" /><media:content medium="image" url="/assets/img/shineapple.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Summer 2020 Releases</title><link href="/2020/04/15/summer-2020-releases.html" rel="alternate" type="text/html" title="Summer 2020 Releases" /><published>2020-04-15T13:30:00-04:00</published><updated>2020-04-15T13:30:00-04:00</updated><id>/2020/04/15/summer-2020-releases</id><content type="html" xml:base="/2020/04/15/summer-2020-releases.html">&lt;!-- Content for blog post begins here --&gt;
+CREATIVE productivity, Work-related stress, Acute short-term depressions&lt;/p&gt;</content><author><name></name></author><summary type="html">&amp;lt;!– You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https/assets/img/shineapple.jpg" /><media:content medium="image" url="https/assets/img/shineapple.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Summer 2020 Releases</title><link href="https/2020/04/15/summer-2020-releases.html" rel="alternate" type="text/html" title="Summer 2020 Releases" /><published>2020-04-15T13:30:00-04:00</published><updated>2020-04-15T13:30:00-04:00</updated><id>https/2020/04/15/summer-2020-releases</id><content type="html" xml:base="https/2020/04/15/summer-2020-releases.html">&lt;!-- Content for blog post begins here --&gt;
 
 &lt;!-- Strain Release Table. Maintained by developers @LambdaGenetics© 2020--&gt;
 &lt;!-- The next line needs to be a break or else Jekyll doesn't render the markdown table--&gt;
@@ -208,7 +208,7 @@ CREATIVE productivity, Work-related stress, Acute short-term depressions&lt;/p&g
       &lt;td&gt;&lt;strong&gt;Shineapple&lt;/strong&gt;&lt;/td&gt;
       &lt;td&gt;&lt;em&gt;Sativa-Dominant Hybrid&lt;/em&gt;&lt;/td&gt;
       &lt;td&gt;&lt;strong&gt;October&lt;/strong&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;//assets/img/labels/shineapple1_logo.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img class=&quot;post-mainpicture&quot; rel=&quot;author&quot; src=&quot;/assets/img/labels/shineapple1_logo.png&quot; width=&quot;25%&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -223,4 +223,4 @@ Mildew Resistance:&lt;/p&gt;
 
 &lt;p&gt;Developed by Dominion Seed Co&lt;/p&gt;
 
-&lt;p&gt;(Virginia &amp;amp; Oregon, USA)&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/img/labels/shineapple2_logo.png" /><media:content medium="image" url="/assets/img/labels/shineapple2_logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;(Virginia &amp;amp; Oregon, USA)&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https/assets/img/labels/shineapple2_logo.png" /><media:content medium="image" url="https/assets/img/labels/shineapple2_logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
