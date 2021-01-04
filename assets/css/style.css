@@ -80,6 +80,8 @@ table td { border: 1px solid #e8e8e8; }
 
 .sankey { position: relative; left: 50%; -webkit-transform: translateX(-50%); -ms-transform: translateX(-50%); transform: translateX(-50%); }
 
+.cell-center { text-align: center; }
+
 .bg-image { background-image: url("{{ site.baseurl }}/assets/img/yellowbubbles.png"); }
 
 .site-icon { float: left; margin-top: 3px; margin-right: 5px; width: 45px; height: 45px; }
