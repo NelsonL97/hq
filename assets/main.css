@@ -78,7 +78,7 @@ table td { border: 1px solid #e8e8e8; }
 /** Site header */
 .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
 
-.sankey { position: relative; left: 50%; -webkit-transform: translateX(-50%); -ms-transform: translateX(-50%); transform: translateX(-50%); }
+.sankey_svg { margin-left: auto; margin-right: auto; display: block; }
 
 .cell-center { text-align: center; }
 
